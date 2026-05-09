@@ -1,2 +1,1 @@
-# OLA-Data-Analysis-Project
-SQL-based data analysis project on Ola ride bookings dataset. This project includes data cleaning, exploratory analysis, and business insights using SQL Server. Key analyses include successful bookings, ride cancellations, payment methods, driver ratings, and customer booking trends.
+This project analyzes Ola ride booking data using SQL Server. It contains SQL queries and views to explore booking status, cancellations, payment methods, vehicle types, customer trends, and driver ratings for business insights.
